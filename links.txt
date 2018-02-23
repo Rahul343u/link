@@ -4,3 +4,6 @@ https://www.code-sample.com/2014/09/angularjs-documentation.html
 npm config set proxy http://"user:password"@10.30.0.155:80
 
 npm config set https-proxy http://"user:password"@10.30.0.155:80
+
+
+https://home.pandorabots.com/dash.html
